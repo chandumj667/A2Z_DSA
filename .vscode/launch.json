@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/chandu/OneDrive/Desktop/A2Z/3Basic_math",
-      "program": "c:/Users/chandu/OneDrive/Desktop/A2Z/3Basic_math/build/Debug/outDebug",
+      "cwd": "c:/Users/chandu/OneDrive/Desktop/A2Z/Arrays",
+      "program": "c:/Users/chandu/OneDrive/Desktop/A2Z/Arrays/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
