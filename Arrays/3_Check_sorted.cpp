@@ -21,7 +21,7 @@ bool check_sorted(vector<int>vec, int n){
 
 int main(){
     int n;
-    cout << "Enter the number of elements to be entered: ";
+    cout << "Enter the size: ";
     cin >> n;
 
     vector<int> vec(n);

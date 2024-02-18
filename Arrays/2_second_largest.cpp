@@ -104,7 +104,7 @@ int optimal(vector<int>vec, int n){
 
 int main(){
     int n;
-    cout << "enter the size of the array: ";
+    cout << "enter the size: ";
     cin >> n;
     
     vector<int> vec(n);
